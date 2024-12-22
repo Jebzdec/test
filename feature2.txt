@@ -1,2 +1,2 @@
 2 js
-aafa
+aafa\tet
