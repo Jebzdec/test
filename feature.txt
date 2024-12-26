@@ -11,7 +11,4 @@ fafsafa
 afaskfslf
 faf
 faaaaaaaaa
-<<<<<<< HEAD
-=======
-faaaaaaaaa
->>>>>>> origin/main
+ฟฟฟฟ
